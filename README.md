@@ -6,15 +6,15 @@ L'entreprise a divisé son audience en deux groupes aléatoires et a diffusé ch
 L'analyse porte sur 30 jours de campagnes publicitaires collectées pour chaque groupe. Les données permettent de suivre le parcours complet d'un utilisateur, depuis l'exposition à la publicité jusqu'à l'achat final. Pour chaque jour et chaque groupe, nous disposons du nombre d'impressions (affichages de la publicité), des clics générés, des vues de contenu produit sur le site, des ajouts au panier, des achats finalisés, ainsi que du budget publicitaire investi.
 Ces données couvrent l'intégralité du tunnel de conversion et permettent d'identifier précisément à quelle étape du parcours client chaque version performe le mieux, tout en mesurant l'efficacité économique de chaque approche.
 
-Date : Date de la campagne (août 2019)
-Spend [USD] : Budget dépensé
-#of Impressions : Nombre d'impressions publicitaires
-Reach : Nombre de personnes uniques atteintes
-#of Website Clicks : Clics vers le site web
-#of Searches : Recherches générées
-#of View Content : Vues de contenu produit
-#of Add to Cart : Ajouts au panier
-#of Purchase : Achats finalisés (conversions)
+- Date : Date de la campagne (août 2019)
+- Spend [USD] : Budget dépensé
+- #of Impressions : Nombre d'impressions publicitaires
+- Reach : Nombre de personnes uniques atteintes
+- #of Website Clicks : Clics vers le site web
+- #of Searches : Recherches générées
+- #of View Content : Vues de contenu produit
+- #of Add to Cart : Ajouts au panier
+- #of Purchase : Achats finalisés (conversions)
 
 #### [Télécharger les données du groupe de contrôle](https://github.com/Hines98/Analyse-donnees-RH/blob/4ccd054ddd2f42c1ac39d33b73e2062ebae3942c/HRData.csv)
 #### [Télécharger les données du groupe de Test](https://github.com/Hines98/Analyse-donnees-RH/blob/3db3861efafe8bb2ca8977296b1bbec956441594/Report_HR_Data.pbix)
