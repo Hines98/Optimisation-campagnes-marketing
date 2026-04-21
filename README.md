@@ -22,6 +22,8 @@ Ces données couvrent l'intégralité du tunnel de conversion et permettent d'id
 
 ## Résultats clés
 
+<img width="1014" height="481" alt="image" src="https://github.com/user-attachments/assets/23a38b08-85a5-4410-bdf1-3499ff4e516e" />
+
 ### Performance d'attraction et d'engagement
 L'analyse révèle d'abord une différence majeure dans la capacité des deux campagnes publicitaires à capter l'attention. La version Test affiche un taux de clic (CTR) de 8.2% contre 4.8% pour le Contrôle, soit une amélioration de 70%. Concrètement, pour 1000 personnes exposées à la publicité, la version Test génère 82 clics alors que le Contrôle n'en obtient que 48. Cette différence prouve que le message, le visuel ou le positionnement de la version Test résonne nettement mieux avec l'audience cible et suscite un engagement initial significativement supérieur.
 
