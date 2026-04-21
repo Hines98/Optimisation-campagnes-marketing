@@ -16,8 +16,8 @@ Ces données couvrent l'intégralité du tunnel de conversion et permettent d'id
 - #of Add to Cart : Ajouts au panier
 - #of Purchase : Achats finalisés (conversions)
 
-#### [Télécharger les données du groupe de contrôle](https://github.com/Hines98/Analyse-donnees-RH/blob/4ccd054ddd2f42c1ac39d33b73e2062ebae3942c/HRData.csv)
-#### [Télécharger les données du groupe de Test](https://github.com/Hines98/Analyse-donnees-RH/blob/3db3861efafe8bb2ca8977296b1bbec956441594/Report_HR_Data.pbix)
+#### [Télécharger les données du groupe de contrôle](https://github.com/Hines98/Optimisation-campagnes-marketing/blob/main/control_group.csv)
+#### [Télécharger les données du groupe de Test](https://github.com/Hines98/Optimisation-campagnes-marketing/blob/main/test_group.csv)
 #### [Télécharger le notebook](https://github.com/Hines98/Analyse-donnees-RH/blob/3147568b18126d3accba436bbd87a719f309ccc8/Report_HR_Data.pdf)
 
 ## Résultats clés
